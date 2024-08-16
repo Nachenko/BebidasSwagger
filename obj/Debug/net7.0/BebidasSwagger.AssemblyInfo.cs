@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BebidasSwagger")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e989dbf4eb63f1709ee5b78ce3961772eb11ea9e")]
 [assembly: System.Reflection.AssemblyProductAttribute("BebidasSwagger")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BebidasSwagger")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

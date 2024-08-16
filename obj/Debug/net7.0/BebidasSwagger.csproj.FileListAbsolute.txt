@@ -61,6 +61,7 @@
 /Users/nachi/Library/CloudStorage/OneDrive-UniversidadEstatalaDistancia/FundamentosPrograWeb/LA Tarea/BebidasSwagger/BebidasSwagger/obj/Debug/net7.0/BebidasSwagger.csproj.CoreCompileInputs.cache
 /Users/nachi/Library/CloudStorage/OneDrive-UniversidadEstatalaDistancia/FundamentosPrograWeb/LA Tarea/BebidasSwagger/BebidasSwagger/obj/Debug/net7.0/BebidasSwagger.MvcApplicationPartsAssemblyInfo.cs
 /Users/nachi/Library/CloudStorage/OneDrive-UniversidadEstatalaDistancia/FundamentosPrograWeb/LA Tarea/BebidasSwagger/BebidasSwagger/obj/Debug/net7.0/BebidasSwagger.MvcApplicationPartsAssemblyInfo.cache
+/Users/nachi/Library/CloudStorage/OneDrive-UniversidadEstatalaDistancia/FundamentosPrograWeb/LA Tarea/BebidasSwagger/BebidasSwagger/obj/Debug/net7.0/BebidasSwagger.sourcelink.json
 /Users/nachi/Library/CloudStorage/OneDrive-UniversidadEstatalaDistancia/FundamentosPrograWeb/LA Tarea/BebidasSwagger/BebidasSwagger/obj/Debug/net7.0/staticwebassets.build.json
 /Users/nachi/Library/CloudStorage/OneDrive-UniversidadEstatalaDistancia/FundamentosPrograWeb/LA Tarea/BebidasSwagger/BebidasSwagger/obj/Debug/net7.0/staticwebassets.development.json
 /Users/nachi/Library/CloudStorage/OneDrive-UniversidadEstatalaDistancia/FundamentosPrograWeb/LA Tarea/BebidasSwagger/BebidasSwagger/obj/Debug/net7.0/staticwebassets/msbuild.BebidasSwagger.Microsoft.AspNetCore.StaticWebAssets.props
